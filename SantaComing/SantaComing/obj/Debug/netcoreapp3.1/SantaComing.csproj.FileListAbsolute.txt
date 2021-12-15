@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\bin\Debug\netcoreapp3.1\SantaComing.exe
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\bin\Debug\netcoreapp3.1\SantaComing.deps.json
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\bin\Debug\netcoreapp3.1\SantaComing.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\bin\Debug\netcoreapp3.1\SantaComing.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\bin\Debug\netcoreapp3.1\SantaComing.dll
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\bin\Debug\netcoreapp3.1\SantaComing.pdb
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.Form1.resources
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.Properties.Resources.resources
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.dll
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.pdb
+C:\Users\opilane\source\repos\Titpe21\SantaComing\SantaComing\obj\Debug\netcoreapp3.1\SantaComing.genruntimeconfig.cache
